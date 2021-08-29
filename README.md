@@ -21,6 +21,6 @@ link: https://www.youtube.com/watch?v=Oe421EPjeBE
 
 ## Modules
 
-With Node you excute one file but you can split your code in modules.
-Essentially modules are encapsulated code (only sharing what we want).
-Every file in Node is a module.
+- With Node you excute one file but you can split your code in modules.
+- Essentially modules are encapsulated code (only sharing what we want).
+- Every file in Node is a module.
