@@ -1,6 +1,6 @@
 # Node.js and Express course
 
-This repository have all the information about the freecodecamps's course
+This repository have all the information about the freecodecamp's course
 link: https://www.youtube.com/watch?v=Oe421EPjeBE
 
 ## Diferences between browser js and Node.js
@@ -13,4 +13,8 @@ link: https://www.youtube.com/watch?v=Oe421EPjeBE
 
 ## Global variables in Node (some variables)
 
-- \_\_dirname : path to current directory
+- \_\_dirname : path to current directory.
+- \_\_filename : file name.
+- require : funtion to use modules (CommonJs).
+- module : info about current module (file).
+- process : info about env where the program is beign excuted.
