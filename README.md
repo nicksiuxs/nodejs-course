@@ -18,3 +18,9 @@ link: https://www.youtube.com/watch?v=Oe421EPjeBE
 - require : funtion to use modules (CommonJs).
 - module : info about current module (file).
 - process : info about env where the program is beign excuted.
+
+## Modules
+
+With Node you excute one file but you can split your code in modules.
+Essentially modules are encapsulated code (only sharing what we want).
+Every file in Node is a module.
