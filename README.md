@@ -10,3 +10,7 @@ link: https://www.youtube.com/watch?v=Oe421EPjeBE
 - Access to the filesystem.
 - Node apps depends only on node.js version it was built.
 - Acces to modules by default.
+
+## Global variables in Node (some variables)
+
+- \_\_dirname : path to current directory
