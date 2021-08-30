@@ -32,3 +32,7 @@ module.exports.variable = [1, 2, 3, 4];
 const person = { name: "John" };
 module.exports.singlePerson = person;
 ```
+
+### Mind grenade
+
+If we import a file with that doesn't have exports, it will be appended to our app
