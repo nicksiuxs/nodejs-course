@@ -37,9 +37,9 @@ module.exports.singlePerson = person;
 
 If we import a file with that doesn't have exports, it will be appended to our app
 
-## Built in modules in Node
+## Built-in modules in Node
 
-Node has differents built ind modules that we can use freely in our apps.
+Node has differents built-in modules that we can use freely in our apps.
 We don't need to install built in modules.
 
 - OS
@@ -47,7 +47,13 @@ We don't need to install built in modules.
 - FS
 - HTTP
 
-### OS MODULE
+### OS Module
 
 This module can provides many useful properties and methods for interacting with
 operating system as well as the server. To see the differents methods look the documentation.
+[documentation](https://nodejs.org/api/os.html)
+
+### PATH Module
+
+Module that provides utilities for working with file and directory paths.
+See more in [documentation](https://nodejs.org/api/path.html)
