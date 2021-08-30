@@ -36,3 +36,18 @@ module.exports.singlePerson = person;
 ### Mind grenade
 
 If we import a file with that doesn't have exports, it will be appended to our app
+
+## Built in modules in Node
+
+Node has differents built ind modules that we can use freely in our apps.
+We don't need to install built in modules.
+
+- OS
+- PATH
+- FS
+- HTTP
+
+### OS MODULE
+
+This module can provides many useful properties and methods for interacting with
+operating system as well as the server. To see the differents methods look the documentation.
