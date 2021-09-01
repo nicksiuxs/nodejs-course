@@ -57,3 +57,7 @@ operating system as well as the server. To see the differents methods look the d
 
 Module that provides utilities for working with file and directory paths.
 See more in [documentation](https://nodejs.org/api/path.html)
+
+### FS Module
+
+This module provides interaction with the file system. See more in [documentation](https://nodejs.org/api/fs.html)
