@@ -61,3 +61,7 @@ See more in [documentation](https://nodejs.org/api/path.html)
 ### FS Module
 
 This module provides interaction with the file system. See more in [documentation](https://nodejs.org/api/fs.html)
+
+### Differences between async y sync
+
+async allow to continue with the excution, the sync wait to the end the task to continue with others task
