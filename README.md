@@ -70,3 +70,28 @@ async allow to continue with the excution, the sync wait to the end the task to 
 
 This module can provides a set up a web server
 See more information in [documentation](https://nodejs.org/api/http.html)
+
+## NPM (Node Packages Manager)
+
+The world's biggest code store. A package is essentially is a folder that contains a javascript code, can be called
+modules or dependecies. Tip: is a package has a high number of weekly downloads may be is a good package.
+
+### How to use it in a project
+
+- Check the versio of npm
+
+```
+	npm --version
+```
+
+- Install local dependency
+
+```
+	npm i <packageName>
+```
+
+- Install global dependency
+
+```
+	npm install -g <packageName>
+```
