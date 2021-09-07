@@ -65,3 +65,8 @@ This module provides interaction with the file system. See more in [documentatio
 ### Differences between async y sync
 
 async allow to continue with the excution, the sync wait to the end the task to continue with others task
+
+### HTTP Module
+
+This module can provides a set up a web server
+See more information in [documentation](https://nodejs.org/api/http.html)
