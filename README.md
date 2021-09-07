@@ -1,6 +1,6 @@
 # Node.js and Express course
 
-This repository have all the information about the freecodecamp's course
+This repository has all the information about the freecodecamp's course
 link: https://www.youtube.com/watch?v=Oe421EPjeBE
 
 ## Diferences between browser js and Node.js
@@ -81,17 +81,17 @@ modules or dependecies. Tip: is a package has a high number of weekly downloads 
 - Check the versio of npm
 
 ```
-	npm --version
+npm --version
 ```
 
 - Install local dependency
 
 ```
-	npm i <packageName>
+npm i <packageName>
 ```
 
 - Install global dependency
 
 ```
-	npm install -g <packageName>
+npm install -g <packageName>
 ```
