@@ -95,3 +95,16 @@ npm i <packageName>
 ```
 npm install -g <packageName>
 ```
+
+## Package json
+
+Is like a manifest file that stores important information about our project
+there are 3 ways to create a package.json
+
+1. Create a package.json in the root folder (add all manually)
+2. run npm init (step by step)
+3. run npm init -y (everithing is default )
+
+### Why is need it this package?
+
+It's important to install the local package
