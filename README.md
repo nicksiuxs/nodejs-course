@@ -107,4 +107,6 @@ there are 3 ways to create a package.json
 
 ### Why is need it this package?
 
-It's important to install the local package
+It's important to install the local package, is important when we start sharing our project with
+others developers. To avoid upload node models (folder that normally is biggest). For install this
+dependecies is importan to run `npm install`
