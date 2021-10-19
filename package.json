@@ -4,7 +4,8 @@
   "description": "this is a educative project to learn node js and express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./tutorial_1/app.js",
+    "dev": "nodemon ./tutorial_1/app.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,9 @@
   },
   "homepage": "https://github.com/nicksiuxs/nodejs-course#readme",
   "dependencies": {
-    "bootstrap": "^5.1.1",
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
   }
 }
