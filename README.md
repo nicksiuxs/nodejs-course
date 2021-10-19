@@ -111,8 +111,16 @@ It's important to install the local package, is important when we start sharing 
 others developers. To avoid upload node models (folder that normally is biggest). For install this
 dependecies is importan to run `npm install`
 
-### Unistall a package
+## Unistall a package
 
 ```
 npm uninstall packageName
 ```
+
+## Install global packages
+
+```
+sudo npm install -g packageName
+```
+
+#Event Loop
