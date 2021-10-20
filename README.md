@@ -124,3 +124,6 @@ sudo npm install -g packageName
 ```
 
 # Event Loop
+
+The event loop is what allows nodejs to perfom no blocking input and ouput operations.
+Javascript only has single thread. [Event Loop](https://nodejs.dev/learn/the-nodejs-event-loop)
